@@ -1,0 +1,6 @@
+{
+  "name": "MinimaList - 1-Hour Reminder To-Do",
+  "description": "Minimalist, distraction-free to-do list that automatically schedules a 1-hour reminder for every new task, with flexible settings, audio chimes, and browser notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

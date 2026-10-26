@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.minimalist.todo.twa",
+      "sha256_cert_fingerprints": [
+        "14:6D:E9:7F:0F:52:CE:EB:2E:EE:4B:B7:A8:14:CE:7F:7E:8C:BE:03:A4:44:0B:4D:AE:3E:6F:0A:47:AE:E1:92"
+      ]
+    }
+  }
+]
